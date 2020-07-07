@@ -40,6 +40,7 @@
   padding: 10px 0px ;
   margin: 10px 0px;
   height: 20px;
+  font-size: 20px;
 }
 
 .button
@@ -50,4 +51,5 @@
   background-color: cornflowerblue;
   color: #ffffff;
   border: none;
+  cursor: pointer;
 }
